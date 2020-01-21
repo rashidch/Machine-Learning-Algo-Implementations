@@ -1,7 +1,5 @@
 # ML DL PROJECTS
-
 ## 1. DL PROJECT
-
  - Image Recognition using Convolutional Neural Network
  - Dataset MNIST and CIFAR10
  - Showing correctly classified and miss classified Images
