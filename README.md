@@ -35,3 +35,8 @@ tossing trails in batch
 ## 6. ML Project using Numpy and Open CV
 - Different ways to do dimension reduction on MNIST data using PCA, LDA, S-SNE and T-SNE
 - Use PCA to show the first 25 eigenfaces using att_faces dataset
+## 7. ML Project using Numpy
+- Logistic Regression from scratch
+- Random data generator 
+- EM Algorithm from scratch
+- Dataset: MNIST Data
