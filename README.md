@@ -25,7 +25,8 @@ tossing trails in batch
 - Random Data Generator
 - Sequential Estimator
 - Baysian Linear regression
-## 4. ML Project from scratch using Numpy
+## 4. ML Project using LIBSVM
 - Support Vector Machine to tackle classification of MNIST data using LIBSVM library
 - kernel functions used (linear, polynomial, and RBF kernels)
 - Find out support vectors using 2D Dataset
+## 5. ML 
