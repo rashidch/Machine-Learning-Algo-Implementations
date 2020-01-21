@@ -17,8 +17,12 @@ model
 ## 1. ML Project from Scratch using Numpy 
 - Regularized linear regression (polynomial basis) using LSE and Newton's method and
 visualization
-## 2. ML Projec from scratch using Numpy
+## 2. ML Project from scratch using Numpy
 - MNIST Digit classification using Naive Bayes that support discrete and continous feature of MNIST data
 - Online learning to learn the beta distribution of the parameter p (chance to see 1) of the coin
 tossing trails in batch
-## 3. ML Projec from scratch using Numpy
+## 3. ML Project from scratch using Numpy
+- Random Data Generator
+- Sequential Estimator
+- Baysian Linear regression
+## 4. ML Project from scratch using Numpy
