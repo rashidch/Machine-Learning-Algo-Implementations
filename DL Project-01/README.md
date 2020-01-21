@@ -17,5 +17,9 @@
 
 
 - Showing correctly classified and miss classified Images
+
+![result](./1-MNIST_source/miss_classfied%20after%20adding%20L2.png)
+
+
 - Displaying 9 feature maps per convolutional layer
 - Effect of L2 Regularization on overfittng and accuracy
