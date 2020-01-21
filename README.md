@@ -29,4 +29,9 @@ tossing trails in batch
 - Support Vector Machine to tackle classification of MNIST data using LIBSVM library
 - kernel functions used (linear, polynomial, and RBF kernels)
 - Find out support vectors using 2D Dataset
-## 5. ML 
+## 5. ML Project using Numpy 
+- Implementation of k-means clustering, kernel k-means, spectral clustering, DBSCAN using Numpy from scratch
+- Dataset: 2 datasets with points on 2d space, circle.txt and moon.txt
+## 6. ML Project using Numpy and Open CV
+- Different ways to do dimension reduction on MNIST data using PCA, LDA, S-SNE and T-SNE
+- Use PCA to show the first 25 eigenfaces using att_faces dataset
