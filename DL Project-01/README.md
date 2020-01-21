@@ -1,5 +1,6 @@
 
 ## 1 - Using Convolutional Neural Network for Image Recognition
+## MNIST Digit Recognition:
 ### Network Architecture
 - Input -->Block1[Conv1 -->Relu --> Pool1]-->Block2[Conv2 -->Relu --> Pool2]-->Block3[Conv3 -->Relu --> Pool3]-->Block4 -->[FC1--Relu] >Block5[FC2 --> Relu]-->Softmax
 - Learning rate = 0.00010.0001
@@ -10,3 +11,8 @@
 - Train Accuracy: 0.999059999999965
 - Validation Accuracy: 0.9814
 - Test Accuracy: 0.9835
+- Learning Curve
+
+- Showing correctly classified and miss classified Images
+- Displaying 9 feature maps per convolutional layer
+- Effect of L2 Regularization on overfittng and accuracy
