@@ -5,7 +5,7 @@
  - Showing correctly classified and miss classified Images
  - Displaying 9 feature maps per convolutional layer
  - Effect of L2 Regularization on overfittng and accuracy
-## 2. DL PROJECT
+## 2. DL PROJECT using Tensorflow
 - Building a recurrent neural network for character-level language
 model
 - Recurrent neural network (RNN) for word generation using character-level language model
