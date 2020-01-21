@@ -11,6 +11,12 @@ model
 - Recurrent neural network (RNN) for word generation using character-level language model
 - Long short term memory (LSTM) for word generation using charater-level language model 
 - Shakespeare dataset
-## 3. DL PROJECT
+## 3. DL PROJECT from Scratch using Numpy
 - Regression using Neural Network with 2 Hidden Layers from scratch
 - Classification using Neural Network with one Hidden layer from scratch
+## 1. ML Project from Scratch using Numpy 
+- Regularized linear regression (polynomial basis) using LSE and Newton's method and
+visualization
+## 2. ML Projec from scratch using Numpy
+- MNIST Digit classification using Naive Bayes that support discrete and continous feature of MNIST data
+## 3. ML Projec from scratch using Numpy
