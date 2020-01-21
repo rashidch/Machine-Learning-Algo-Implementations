@@ -19,4 +19,6 @@ model
 visualization
 ## 2. ML Projec from scratch using Numpy
 - MNIST Digit classification using Naive Bayes that support discrete and continous feature of MNIST data
+- Online learning to learn the beta distribution of the parameter p (chance to see 1) of the coin
+tossing trails in batch
 ## 3. ML Projec from scratch using Numpy
