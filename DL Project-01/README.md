@@ -1,7 +1,7 @@
 
 ## Convolutional Neural Network for Image Recognition
 ## MNIST Digit Recognition:
-### Network Architecture
+#### Network Architecture and Recognition results 
 - Input -->Block1[Conv1 -->Relu --> Pool1]-->Block2[Conv2 -->Relu --> Pool2]-->Block3[Conv3 -->Relu --> Pool3]-->Block4 -->[FC1--Relu] >Block5[FC2 --> Relu]-->Softmax
 - Learning rate = 0.00010.0001
 
