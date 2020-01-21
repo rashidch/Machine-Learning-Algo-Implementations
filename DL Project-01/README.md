@@ -13,6 +13,9 @@
 - Test Accuracy: 0.9835
 - Learning Curve
 
+![result](./1-MNIST_source/Learning%20Curve%20after%20adding%20L2.png)
+
+
 - Showing correctly classified and miss classified Images
 - Displaying 9 feature maps per convolutional layer
 - Effect of L2 Regularization on overfittng and accuracy
