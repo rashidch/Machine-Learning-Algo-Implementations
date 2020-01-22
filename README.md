@@ -1,4 +1,4 @@
-# ML DL PROJECTS
+# ML DL Mini PROJECTS
 ## 1. DL PROJECT using Tensorflow
  - Image Recognition using Convolutional Neural Network
  - Dataset MNIST and CIFAR10
