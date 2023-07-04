@@ -1,4 +1,4 @@
-# Machine Learning and Deep Learning course projects
+# Machine Learning and Deep Learning course coding Homeworks
  - Image Recognition using Convolutional Neural Network
  - Dataset MNIST and CIFAR10
  - Showing correctly classified and miss classified Images
